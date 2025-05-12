@@ -1,0 +1,7 @@
+JobID,CustomerID,TechnicianID,Equipment,Issue,Status
+JOB1745695311364,,null,cscs,scsc,JOB_COMPLETED
+JOB1745695314639,,7ea8a858-6443-4d7c-9198-1a8f26e749a3,cscss,csc,JOB_CANCELLED
+JOB1745695318922,,null,aaas,scscscas,JOB_CREATED
+JOB1745695419983,vishnuprashob41@gmail.com,null,Cycle,having puncture in front tire. Technition- Working,JOB_INITIATED
+JOB1745695468339,vishnuprashob41@gmail.com,null,Car,Having issue in the headlight. \n Front right bulb is gone i thing so.\n Technition- Work completed.\n Technition- Delivered to customer. Technition- Done Technition- Update1,JOB_COMPLETED
+JOB1746535725925,vishnuprashob.s@gmail.com,feb02d75-aa62-42b5-93dd-76db4a8ce836,Car repair,Having a puncture in my front tire left side.,JOB_COMPLETED

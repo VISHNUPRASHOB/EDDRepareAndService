@@ -1,0 +1,8 @@
+[2025-05-05 19:01:01] Invalid input. Please enter a number. Exception: For input string: "admin@gmail.com"
+[2025-05-05 20:20:51] Invalid input. Please enter a number. Exception: For input string: "work@gmail.com"
+[2025-05-05 21:35:09] Invalid input. Please enter a number. Exception: For input string: "admin@gmail.com"
+[2025-05-05 21:50:29] Invalid input. Please enter a number. Exception: For input string: "work@gmail.com"
+[2025-05-05 21:58:10] Invalid input. Please enter a number. Exception: For input string: "JOB1745695314639"
+[2025-05-06 13:00:53] - [Part not found] (ID: 0)
+[2025-05-06 13:21:42] Invalid input. Please enter a number. Exception: For input string: "JOB1746533881038"
+[2025-05-06 13:37:51] Invalid input. Please enter a number. Exception: For input string: ""

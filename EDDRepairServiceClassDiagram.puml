@@ -1,0 +1,30 @@
+@startuml
+abstract class Models.User
+annotation java.lang.Override
+class Models.Administrator
+class Models.Customer
+class Models.JobPart
+class Models.RepairWork
+class Models.SparePart
+class Models.Technician
+class java.util.Objects
+enum Models.Status
+interface Interface.ICsvConvertor
+Models.User ..> java.lang.Override
+Models.Administrator --|> Models.User
+Models.Administrator ..> java.lang.Override
+Models.Administrator --|> Interface.ICsvConvertor
+Models.Customer --|> Models.User
+Models.Customer ..> java.lang.Override
+Models.Customer --|> Interface.ICsvConvertor
+Models.JobPart ..> java.lang.Override
+Models.JobPart --|> Interface.ICsvConvertor
+Models.RepairWork ..> java.lang.Override
+Models.RepairWork --|> Interface.ICsvConvertor
+Models.SparePart ..> java.lang.Override
+Models.SparePart --|> Interface.ICsvConvertor
+Models.Technician --|> Models.User
+Models.Technician ..> java.lang.Override
+Models.Technician ..> java.util.Objects
+Models.Technician --|> Interface.ICsvConvertor
+@enduml

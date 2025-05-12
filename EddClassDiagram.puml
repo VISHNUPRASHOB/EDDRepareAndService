@@ -1,0 +1,167 @@
+@startuml EDD_Technologies_Class_Diagram
+
+skinparam class {
+    BackgroundColor White
+    BorderColor Black
+    ArrowColor #0078D7
+    AttributeFontSize 12
+    MethodFontSize 12
+}
+
+package "Models" {
+    abstract class User {
+        {abstract} +String id
+        {abstract} +String name
+        {abstract} +String email
+        {abstract} +String toCSVRow()
+        {abstract} +void fromCSV(String csv)
+    }
+
+    class Administrator {
+        +String password
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+
+    class Customer {
+        +String phone
+        +boolean isFlagged
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+
+    class Technician {
+        +String expertise
+        +String password
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+
+    class RepairWork {
+        +String jobId
+        +String customerId
+        +String technicianId
+        +String equipment
+        +String issue
+        +Status status
+        +String toCSVRow()
+        +void fromCSV(String csv)
+        +String getStatusString()
+        +void updateIssue(String tasks)
+    }
+
+    class SparePart {
+        +String partId
+        +String name
+        +double cost
+        +String location
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+
+    class JobPart {
+        +String jobId
+        +String partId
+        +int quantity
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+
+    enum Status {
+        JOB_CREATED
+        JOB_ASSESSED
+        JOB_IN_PROGRESS
+        JOB_COMPLETED
+        JOB_DELIVERED
+    }
+}
+
+package "Interfaces" {
+    interface ICsvConvertor {
+        +String toCSVRow()
+        +void fromCSV(String csv)
+    }
+}
+
+package "FileManager" {
+    class TechnicianCSVFileManager {
+        +saveTechnician(Technician)
+        +loadAllTechnicians()
+        +updateTechnician(Technician)
+        +deleteTechnician(String id)
+        +technicianLogin(String email, String password)
+    }
+
+    class RepairWorkCSVFileManager {
+        +saveRepairWork(RepairWork)
+        +loadAllRepairWorks()
+        +updateRepairWork(RepairWork)
+        +deleteRepairWork(String jobId)
+    }
+
+    class SparePartsCSVFileManager {
+        +saveSparePart(SparePart)
+        +loadAllSpareParts()
+        +updateSparePart(SparePart)
+        +deleteSparePart(String partId)
+    }
+
+    class NotificationManager {
+        +addNotification(Notification)
+        +getNotificationsForCustomer(String customerId)
+        +markAsRead(String customerId)
+    }
+}
+
+package "Controller" {
+    class AdministratorController {
+        +UserRegistration(String name, String email, String password)
+        +adminLoggin(String email, String password)
+    }
+
+    class CustomerController {
+        +UserRegistration(String name, String email, String phone, boolean isFlagged)
+        +isEmailExistInCustomer(String email)
+        +getCustomerDetails(String email)
+        +updateCustomer(String email, String name, String phone, boolean isFlagged)
+        +deleteCustomer(String email)
+    }
+}
+
+' Relationships
+User <|-- Administrator
+User <|-- Customer
+User <|-- Technician
+
+ICsvConvertor <|.. Administrator
+ICsvConvertor <|.. Customer
+ICsvConvertor <|.. Technician
+ICsvConvertor <|.. RepairWork
+ICsvConvertor <|.. SparePart
+ICsvConvertor <|.. JobPart
+
+RepairWork "1" *-- "0..*" SparePart : uses >
+RepairWork "1" -- "1" Technician : assigned to >
+RepairWork "1" -- "1" Customer : belongs to >
+
+AdministratorController ..> Administrator : manages
+CustomerController ..> Customer : manages
+TechnicianCSVFileManager ..> Technician : manages
+RepairWorkCSVFileManager ..> RepairWork : manages
+SparePartsCSVFileManager ..> SparePart : manages
+
+note top of TechnicianCSVFileManager
+  Handles all CRUD operations
+  for Technician data
+end note
+
+note right of Status
+  Possible job statuses:
+  - CREATED
+  - ASSESSED
+  - IN_PROGRESS
+  - COMPLETED
+  - DELIVERED
+end note
+
+@enduml

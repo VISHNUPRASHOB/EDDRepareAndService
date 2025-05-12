@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="796px" preserveAspectRatio="none" style="width:2389px;height:796px;background:#FFFFFF;" version="1.1" viewBox="0 0 2389 796" width="2389px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster Models-->
+        <g id="cluster_Models">
+            <path d="M296.36,321 L349.36,321 A3.75,3.75 0 0 1 351.86,323.5 L358.86,344.6094 L1075.36,344.6094 A2.5,2.5 0 0 1 1077.86,347.1094 L1077.86,786.5 A2.5,2.5 0 0 1 1075.36,789 L296.36,789 A2.5,2.5 0 0 1 293.86,786.5 L293.86,323.5 A2.5,2.5 0 0 1 296.36,321 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="293.86" x2="358.86" y1="344.6094" y2="344.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="52" x="297.86" y="337.5332">Models</text>
+        </g>
+        <!--cluster Interfaces-->
+        <g id="cluster_Interfaces">
+            <path d="M94.36,118.5 L166.36,118.5 A3.75,3.75 0 0 1 168.86,121 L175.86,142.1094 L283.36,142.1094 A2.5,2.5 0 0 1 285.86,144.6094 L285.86,246 A2.5,2.5 0 0 1 283.36,248.5 L94.36,248.5 A2.5,2.5 0 0 1 91.86,246 L91.86,121 A2.5,2.5 0 0 1 94.36,118.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="91.86" x2="175.86" y1="142.1094" y2="142.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="95.86" y="135.0332">Interfaces</text>
+        </g>
+        <!--cluster FileManager-->
+        <g id="cluster_FileManager">
+            <path d="M315.36,96 L404.36,96 A3.75,3.75 0 0 1 406.86,98.5 L413.86,119.6094 L1412.36,119.6094 A2.5,2.5 0 0 1 1414.86,122.1094 L1414.86,268.5 A2.5,2.5 0 0 1 1412.36,271 L315.36,271 A2.5,2.5 0 0 1 312.86,268.5 L312.86,98.5 A2.5,2.5 0 0 1 315.36,96 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="312.86" x2="413.86" y1="119.6094" y2="119.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="88" x="316.86" y="112.5332">FileManager</text>
+        </g>
+        <!--cluster Controller-->
+        <g id="cluster_Controller">
+            <path d="M1333.36,359 L1405.36,359 A3.75,3.75 0 0 1 1407.86,361.5 L1414.86,382.6094 L2211.36,382.6094 A2.5,2.5 0 0 1 2213.86,385.1094 L2213.86,531.5 A2.5,2.5 0 0 1 2211.36,534 L1333.36,534 A2.5,2.5 0 0 1 1330.86,531.5 L1330.86,361.5 A2.5,2.5 0 0 1 1333.36,359 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1330.86" x2="1414.86" y1="382.6094" y2="382.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="1334.86" y="375.5332">Controller</text>
+        </g>
+        <!--class User-->
+        <g id="elem_User">
+            <rect codeLine="11" fill="#FFFFFF" height="123.4688" id="User" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="163" x="734.36" y="395"/>
+            <ellipse cx="798.61" cy="411" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M800.7975,412.7656 L796.6569,412.7656 L796.235,413.7969 L796.6569,413.7969 Q797.2662,413.7969 797.5319,414.0313 Q797.7975,414.2656 797.7975,414.6563 Q797.7975,415.0313 797.5319,415.2656 Q797.2662,415.5 796.6569,415.5 L794.36,415.5 Q793.7506,415.5 793.5006,415.2656 Q793.235,415.0313 793.235,414.6406 Q793.235,414.2656 793.5162,414.0313 Q793.7819,413.7813 794.4069,413.7969 L797.0787,407.1406 L795.9694,407.1406 Q795.36,407.1406 795.0944,406.9063 Q794.8287,406.6719 794.8287,406.2813 Q794.8287,405.9063 795.0944,405.6719 Q795.36,405.4375 795.9694,405.4375 L799.6412,405.4375 L803.0319,413.7969 Q803.6256,413.7969 803.8131,413.9375 Q804.2037,414.2031 804.2037,414.6563 Q804.2037,415.0313 803.9381,415.2656 Q803.6881,415.5 803.0787,415.5 L800.7819,415.5 Q800.1725,415.5 799.9069,415.2656 Q799.6412,415.0313 799.6412,414.6406 Q799.6412,414.2656 799.9069,414.0313 Q800.1725,413.7969 800.7819,413.7969 L801.2037,413.7969 L800.7975,412.7656 Z M800.0787,411.0625 L798.7194,407.6875 L797.3444,411.0625 L800.0787,411.0625 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="26" x="819.11" y="415.9102">User</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="735.36" x2="896.36" y1="427" y2="427"/>
+            <ellipse cx="745.36" cy="440.0469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="754.36" y="443.457">String id</text>
+            <ellipse cx="745.36" cy="455.1406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="67" x="754.36" y="458.5508">String name</text>
+            <ellipse cx="745.36" cy="470.2344" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="66" x="754.36" y="473.6445">String email</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="735.36" x2="896.36" y1="480.2813" y2="480.2813"/>
+            <ellipse cx="745.36" cy="493.3281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="102" x="754.36" y="496.7383">String toCSVRow()</text>
+            <ellipse cx="745.36" cy="508.4219" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="137" x="754.36" y="511.832">void fromCSV(String csv)</text>
+        </g>
+        <!--class Administrator-->
+        <g id="elem_Administrator">
+            <rect codeLine="19" fill="#FFFFFF" height="93.2813" id="Administrator" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="900.36" y="657"/>
+            <ellipse cx="940.56" cy="673" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M943.3256,668.875 Q943.4819,668.6563 943.6694,668.5469 Q943.8569,668.4375 944.0756,668.4375 Q944.4506,668.4375 944.685,668.7031 Q944.9194,668.9531 944.9194,669.5625 L944.9194,671.0156 Q944.9194,671.625 944.685,671.8906 Q944.4506,672.1563 944.0756,672.1563 Q943.7319,672.1563 943.5288,671.9531 Q943.3256,671.7656 943.2163,671.25 Q943.1694,670.8906 942.9819,670.7031 Q942.6538,670.3281 942.0444,670.1094 Q941.435,669.8906 940.81,669.8906 Q940.0444,669.8906 939.4038,670.2188 Q938.7788,670.5469 938.2788,671.2969 Q937.7944,672.0469 937.7944,673.0781 L937.7944,674.1719 Q937.7944,675.4063 938.685,676.2344 Q939.5756,677.0469 941.1694,677.0469 Q942.1069,677.0469 942.7631,676.7969 Q943.1538,676.6406 943.5756,676.2031 Q943.8413,675.9375 943.9819,675.8594 Q944.1381,675.7813 944.3413,675.7813 Q944.6694,675.7813 944.9194,676.0469 Q945.185,676.2969 945.185,676.6406 Q945.185,676.9844 944.8413,677.3906 Q944.3413,677.9688 943.5444,678.2969 Q942.4663,678.75 941.1694,678.75 Q939.6538,678.75 938.4506,678.125 Q937.4663,677.625 936.7788,676.5625 Q936.0913,675.4844 936.0913,674.2031 L936.0913,673.0469 Q936.0913,671.7188 936.7006,670.5781 Q937.3256,669.4219 938.4194,668.8125 Q939.5131,668.1875 940.7475,668.1875 Q941.4819,668.1875 942.1225,668.3594 Q942.7788,668.5156 943.3256,668.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="73" x="960.16" y="677.9102">Administrator</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="901.36" x2="1060.36" y1="689" y2="689"/>
+            <ellipse cx="911.36" cy="702.0469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="90" x="920.36" y="705.457">String password</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="901.36" x2="1060.36" y1="712.0938" y2="712.0938"/>
+            <ellipse cx="911.36" cy="725.1406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="920.36" y="728.5508">String toCSVRow()</text>
+            <ellipse cx="911.36" cy="740.2344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="920.36" y="743.6445">void fromCSV(String csv)</text>
+        </g>
+        <!--class Customer-->
+        <g id="elem_Customer">
+            <rect codeLine="25" fill="#FFFFFF" height="108.375" id="Customer" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="704.36" y="649.5"/>
+            <ellipse cx="753.11" cy="665.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M755.8756,661.375 Q756.0319,661.1563 756.2194,661.0469 Q756.4069,660.9375 756.6256,660.9375 Q757.0006,660.9375 757.235,661.2031 Q757.4694,661.4531 757.4694,662.0625 L757.4694,663.5156 Q757.4694,664.125 757.235,664.3906 Q757.0006,664.6563 756.6256,664.6563 Q756.2819,664.6563 756.0787,664.4531 Q755.8756,664.2656 755.7662,663.75 Q755.7194,663.3906 755.5319,663.2031 Q755.2037,662.8281 754.5944,662.6094 Q753.985,662.3906 753.36,662.3906 Q752.5944,662.3906 751.9537,662.7188 Q751.3287,663.0469 750.8287,663.7969 Q750.3444,664.5469 750.3444,665.5781 L750.3444,666.6719 Q750.3444,667.9063 751.235,668.7344 Q752.1256,669.5469 753.7194,669.5469 Q754.6569,669.5469 755.3131,669.2969 Q755.7037,669.1406 756.1256,668.7031 Q756.3912,668.4375 756.5319,668.3594 Q756.6881,668.2813 756.8912,668.2813 Q757.2194,668.2813 757.4694,668.5469 Q757.735,668.7969 757.735,669.1406 Q757.735,669.4844 757.3912,669.8906 Q756.8912,670.4688 756.0944,670.7969 Q755.0162,671.25 753.7194,671.25 Q752.2037,671.25 751.0006,670.625 Q750.0162,670.125 749.3287,669.0625 Q748.6412,667.9844 748.6412,666.7031 L748.6412,665.5469 Q748.6412,664.2188 749.2506,663.0781 Q749.8756,661.9219 750.9694,661.3125 Q752.0631,660.6875 753.2975,660.6875 Q754.0319,660.6875 754.6725,660.8594 Q755.3287,661.0156 755.8756,661.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="773.61" y="670.4102">Customer</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="705.36" x2="864.36" y1="681.5" y2="681.5"/>
+            <ellipse cx="715.36" cy="694.5469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="724.36" y="697.957">String phone</text>
+            <ellipse cx="715.36" cy="709.6406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="103" x="724.36" y="713.0508">boolean isFlagged</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="705.36" x2="864.36" y1="719.6875" y2="719.6875"/>
+            <ellipse cx="715.36" cy="732.7344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="724.36" y="736.1445">String toCSVRow()</text>
+            <ellipse cx="715.36" cy="747.8281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="724.36" y="751.2383">void fromCSV(String csv)</text>
+        </g>
+        <!--class Technician-->
+        <g id="elem_Technician">
+            <rect codeLine="32" fill="#FFFFFF" height="108.375" id="Technician" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="508.36" y="649.5"/>
+            <ellipse cx="554.61" cy="665.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M557.3756,661.375 Q557.5319,661.1563 557.7194,661.0469 Q557.9069,660.9375 558.1256,660.9375 Q558.5006,660.9375 558.735,661.2031 Q558.9694,661.4531 558.9694,662.0625 L558.9694,663.5156 Q558.9694,664.125 558.735,664.3906 Q558.5006,664.6563 558.1256,664.6563 Q557.7819,664.6563 557.5788,664.4531 Q557.3756,664.2656 557.2663,663.75 Q557.2194,663.3906 557.0319,663.2031 Q556.7038,662.8281 556.0944,662.6094 Q555.485,662.3906 554.86,662.3906 Q554.0944,662.3906 553.4538,662.7188 Q552.8288,663.0469 552.3288,663.7969 Q551.8444,664.5469 551.8444,665.5781 L551.8444,666.6719 Q551.8444,667.9063 552.735,668.7344 Q553.6256,669.5469 555.2194,669.5469 Q556.1569,669.5469 556.8131,669.2969 Q557.2038,669.1406 557.6256,668.7031 Q557.8913,668.4375 558.0319,668.3594 Q558.1881,668.2813 558.3913,668.2813 Q558.7194,668.2813 558.9694,668.5469 Q559.235,668.7969 559.235,669.1406 Q559.235,669.4844 558.8913,669.8906 Q558.3913,670.4688 557.5944,670.7969 Q556.5163,671.25 555.2194,671.25 Q553.7038,671.25 552.5006,670.625 Q551.5163,670.125 550.8288,669.0625 Q550.1413,667.9844 550.1413,666.7031 L550.1413,665.5469 Q550.1413,664.2188 550.7506,663.0781 Q551.3756,661.9219 552.4694,661.3125 Q553.5631,660.6875 554.7975,660.6875 Q555.5319,660.6875 556.1725,660.8594 Q556.8288,661.0156 557.3756,661.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="575.11" y="670.4102">Technician</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="509.36" x2="668.36" y1="681.5" y2="681.5"/>
+            <ellipse cx="519.36" cy="694.5469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="85" x="528.36" y="697.957">String expertise</text>
+            <ellipse cx="519.36" cy="709.6406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="90" x="528.36" y="713.0508">String password</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="509.36" x2="668.36" y1="719.6875" y2="719.6875"/>
+            <ellipse cx="519.36" cy="732.7344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="528.36" y="736.1445">String toCSVRow()</text>
+            <ellipse cx="519.36" cy="747.8281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="528.36" y="751.2383">void fromCSV(String csv)</text>
+        </g>
+        <!--class RepairWork-->
+        <g id="elem_RepairWork">
+            <rect codeLine="39" fill="#FFFFFF" height="198.9375" id="RepairWork" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="193" x="506.36" y="357"/>
+            <ellipse cx="566.11" cy="373" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M568.8756,368.875 Q569.0319,368.6563 569.2194,368.5469 Q569.4069,368.4375 569.6256,368.4375 Q570.0006,368.4375 570.235,368.7031 Q570.4694,368.9531 570.4694,369.5625 L570.4694,371.0156 Q570.4694,371.625 570.235,371.8906 Q570.0006,372.1563 569.6256,372.1563 Q569.2819,372.1563 569.0788,371.9531 Q568.8756,371.7656 568.7663,371.25 Q568.7194,370.8906 568.5319,370.7031 Q568.2038,370.3281 567.5944,370.1094 Q566.985,369.8906 566.36,369.8906 Q565.5944,369.8906 564.9538,370.2188 Q564.3288,370.5469 563.8288,371.2969 Q563.3444,372.0469 563.3444,373.0781 L563.3444,374.1719 Q563.3444,375.4063 564.235,376.2344 Q565.1256,377.0469 566.7194,377.0469 Q567.6569,377.0469 568.3131,376.7969 Q568.7038,376.6406 569.1256,376.2031 Q569.3913,375.9375 569.5319,375.8594 Q569.6881,375.7813 569.8913,375.7813 Q570.2194,375.7813 570.4694,376.0469 Q570.735,376.2969 570.735,376.6406 Q570.735,376.9844 570.3913,377.3906 Q569.8913,377.9688 569.0944,378.2969 Q568.0163,378.75 566.7194,378.75 Q565.2038,378.75 564.0006,378.125 Q563.0163,377.625 562.3288,376.5625 Q561.6413,375.4844 561.6413,374.2031 L561.6413,373.0469 Q561.6413,371.7188 562.2506,370.5781 Q562.8756,369.4219 563.9694,368.8125 Q565.0631,368.1875 566.2975,368.1875 Q567.0319,368.1875 567.6725,368.3594 Q568.3288,368.5156 568.8756,368.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="65" x="586.61" y="377.9102">RepairWork</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="507.36" x2="698.36" y1="389" y2="389"/>
+            <ellipse cx="517.36" cy="402.0469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="62" x="526.36" y="405.457">String jobId</text>
+            <ellipse cx="517.36" cy="417.1406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="97" x="526.36" y="420.5508">String customerId</text>
+            <ellipse cx="517.36" cy="432.2344" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="101" x="526.36" y="435.6445">String technicianId</text>
+            <ellipse cx="517.36" cy="447.3281" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="94" x="526.36" y="450.7383">String equipment</text>
+            <ellipse cx="517.36" cy="462.4219" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="526.36" y="465.832">String issue</text>
+            <ellipse cx="517.36" cy="477.5156" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="72" x="526.36" y="480.9258">Status status</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="507.36" x2="698.36" y1="487.5625" y2="487.5625"/>
+            <ellipse cx="517.36" cy="500.6094" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="526.36" y="504.0195">String toCSVRow()</text>
+            <ellipse cx="517.36" cy="515.7031" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="526.36" y="519.1133">void fromCSV(String csv)</text>
+            <ellipse cx="517.36" cy="530.7969" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="127" x="526.36" y="534.207">String getStatusString()</text>
+            <ellipse cx="517.36" cy="545.8906" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="167" x="526.36" y="549.3008">void updateIssue(String tasks)</text>
+        </g>
+        <!--class SparePart-->
+        <g id="elem_SparePart">
+            <rect codeLine="52" fill="#FFFFFF" height="138.5625" id="SparePart" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="312.36" y="634"/>
+            <ellipse cx="361.11" cy="650" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M363.8756,645.875 Q364.0319,645.6563 364.2194,645.5469 Q364.4069,645.4375 364.6256,645.4375 Q365.0006,645.4375 365.235,645.7031 Q365.4694,645.9531 365.4694,646.5625 L365.4694,648.0156 Q365.4694,648.625 365.235,648.8906 Q365.0006,649.1563 364.6256,649.1563 Q364.2819,649.1563 364.0788,648.9531 Q363.8756,648.7656 363.7663,648.25 Q363.7194,647.8906 363.5319,647.7031 Q363.2038,647.3281 362.5944,647.1094 Q361.985,646.8906 361.36,646.8906 Q360.5944,646.8906 359.9538,647.2188 Q359.3288,647.5469 358.8288,648.2969 Q358.3444,649.0469 358.3444,650.0781 L358.3444,651.1719 Q358.3444,652.4063 359.235,653.2344 Q360.1256,654.0469 361.7194,654.0469 Q362.6569,654.0469 363.3131,653.7969 Q363.7038,653.6406 364.1256,653.2031 Q364.3913,652.9375 364.5319,652.8594 Q364.6881,652.7813 364.8913,652.7813 Q365.2194,652.7813 365.4694,653.0469 Q365.735,653.2969 365.735,653.6406 Q365.735,653.9844 365.3913,654.3906 Q364.8913,654.9688 364.0944,655.2969 Q363.0163,655.75 361.7194,655.75 Q360.2038,655.75 359.0006,655.125 Q358.0163,654.625 357.3288,653.5625 Q356.6413,652.4844 356.6413,651.2031 L356.6413,650.0469 Q356.6413,648.7188 357.2506,647.5781 Q357.8756,646.4219 358.9694,645.8125 Q360.0631,645.1875 361.2975,645.1875 Q362.0319,645.1875 362.6725,645.3594 Q363.3288,645.5156 363.8756,645.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="381.61" y="654.9102">SparePart</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="313.36" x2="472.36" y1="666" y2="666"/>
+            <ellipse cx="323.36" cy="679.0469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="332.36" y="682.457">String partId</text>
+            <ellipse cx="323.36" cy="694.1406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="332.36" y="697.5508">String name</text>
+            <ellipse cx="323.36" cy="709.2344" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="64" x="332.36" y="712.6445">double cost</text>
+            <ellipse cx="323.36" cy="724.3281" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="332.36" y="727.7383">String location</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="313.36" x2="472.36" y1="734.375" y2="734.375"/>
+            <ellipse cx="323.36" cy="747.4219" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="332.36" y="750.832">String toCSVRow()</text>
+            <ellipse cx="323.36" cy="762.5156" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="332.36" y="765.9258">void fromCSV(String csv)</text>
+        </g>
+        <!--class JobPart-->
+        <g id="elem_JobPart">
+            <rect codeLine="61" fill="#FFFFFF" height="123.4688" id="JobPart" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="310.36" y="395"/>
+            <ellipse cx="365.61" cy="411" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M368.3756,406.875 Q368.5319,406.6563 368.7194,406.5469 Q368.9069,406.4375 369.1256,406.4375 Q369.5006,406.4375 369.735,406.7031 Q369.9694,406.9531 369.9694,407.5625 L369.9694,409.0156 Q369.9694,409.625 369.735,409.8906 Q369.5006,410.1563 369.1256,410.1563 Q368.7819,410.1563 368.5788,409.9531 Q368.3756,409.7656 368.2663,409.25 Q368.2194,408.8906 368.0319,408.7031 Q367.7038,408.3281 367.0944,408.1094 Q366.485,407.8906 365.86,407.8906 Q365.0944,407.8906 364.4538,408.2188 Q363.8288,408.5469 363.3288,409.2969 Q362.8444,410.0469 362.8444,411.0781 L362.8444,412.1719 Q362.8444,413.4063 363.735,414.2344 Q364.6256,415.0469 366.2194,415.0469 Q367.1569,415.0469 367.8131,414.7969 Q368.2038,414.6406 368.6256,414.2031 Q368.8913,413.9375 369.0319,413.8594 Q369.1881,413.7813 369.3913,413.7813 Q369.7194,413.7813 369.9694,414.0469 Q370.235,414.2969 370.235,414.6406 Q370.235,414.9844 369.8913,415.3906 Q369.3913,415.9688 368.5944,416.2969 Q367.5163,416.75 366.2194,416.75 Q364.7038,416.75 363.5006,416.125 Q362.5163,415.625 361.8288,414.5625 Q361.1413,413.4844 361.1413,412.2031 L361.1413,411.0469 Q361.1413,409.7188 361.7506,408.5781 Q362.3756,407.4219 363.4694,406.8125 Q364.5631,406.1875 365.7975,406.1875 Q366.5319,406.1875 367.1725,406.3594 Q367.8288,406.5156 368.3756,406.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="386.11" y="415.9102">JobPart</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="311.36" x2="470.36" y1="427" y2="427"/>
+            <ellipse cx="321.36" cy="440.0469" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="62" x="330.36" y="443.457">String jobId</text>
+            <ellipse cx="321.36" cy="455.1406" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="330.36" y="458.5508">String partId</text>
+            <ellipse cx="321.36" cy="470.2344" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="330.36" y="473.6445">int quantity</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="311.36" x2="470.36" y1="480.2813" y2="480.2813"/>
+            <ellipse cx="321.36" cy="493.3281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="330.36" y="496.7383">String toCSVRow()</text>
+            <ellipse cx="321.36" cy="508.4219" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="330.36" y="511.832">void fromCSV(String csv)</text>
+        </g>
+        <!--class Status-->
+        <g id="elem_Status">
+            <rect codeLine="69" fill="#FFFFFF" height="123.4688" id="Status" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="129" x="932.36" y="395"/>
+            <ellipse cx="975.26" cy="411" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M974.1194,411.7969 L974.1194,414.2969 L978.4475,414.2969 L978.4475,413.375 Q978.4475,412.7656 978.6819,412.5 Q978.9319,412.2344 979.3069,412.2344 Q979.6819,412.2344 979.9162,412.5 Q980.1506,412.7656 980.1506,413.375 L980.1506,416 L972.1506,416 Q971.5256,416 971.26,415.7656 Q971.01,415.5313 971.01,415.1406 Q971.01,414.7656 971.2756,414.5313 Q971.5412,414.2969 972.1506,414.2969 L972.4162,414.2969 L972.4162,407.6406 L972.1506,407.6406 Q971.5256,407.6406 971.26,407.4063 Q971.01,407.1719 971.01,406.7813 Q971.01,406.4063 971.26,406.1719 Q971.5256,405.9375 972.1506,405.9375 L979.7756,405.9375 L979.7756,408.5313 Q979.7756,409.1406 979.5412,409.4063 Q979.3225,409.6563 978.9319,409.6563 Q978.5569,409.6563 978.3225,409.4063 Q978.0881,409.1406 978.0881,408.5313 L978.0881,407.6406 L974.1194,407.6406 L974.1194,410.0938 L975.6037,410.0938 Q975.6037,409.4375 975.7287,409.25 Q975.9944,408.8438 976.4631,408.8438 Q976.8381,408.8438 977.0725,409.1094 Q977.3069,409.3594 977.3069,409.9688 L977.3069,411.9375 Q977.3069,412.4844 977.1819,412.6719 Q976.9162,413.0625 976.4631,413.0625 Q975.9944,413.0625 975.7287,412.6563 Q975.6037,412.4688 975.6037,411.7969 L974.1194,411.7969 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="995.46" y="415.9102">Status</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="933.36" x2="1060.36" y1="427" y2="427"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="87" x="938.36" y="443.457">JOB_CREATED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="94" x="938.36" y="458.5508">JOB_ASSESSED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="938.36" y="473.6445">JOB_IN_PROGRESS</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="104" x="938.36" y="488.7383">JOB_COMPLETED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="98" x="938.36" y="503.832">JOB_DELIVERED</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="933.36" x2="1060.36" y1="510.4688" y2="510.4688"/>
+        </g>
+        <!--class ICsvConvertor-->
+        <g id="elem_ICsvConvertor">
+            <rect codeLine="79" fill="#FFFFFF" height="78.1875" id="ICsvConvertor" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="161" x="108.36" y="154.5"/>
+            <ellipse cx="145.86" cy="170.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M146.8131,167.1406 L146.8131,173.7969 L148.5319,173.7969 Q149.1413,173.7969 149.4069,174.0313 Q149.6725,174.2656 149.6725,174.6563 Q149.6725,175.0313 149.4069,175.2656 Q149.1413,175.5 148.5319,175.5 L143.3913,175.5 Q142.7819,175.5 142.5163,175.2656 Q142.2506,175.0313 142.2506,174.6406 Q142.2506,174.2656 142.5163,174.0313 Q142.7819,173.7969 143.3913,173.7969 L145.11,173.7969 L145.11,167.1406 L143.3913,167.1406 Q142.7819,167.1406 142.5163,166.9063 Q142.2506,166.6719 142.2506,166.2813 Q142.2506,165.9063 142.5163,165.6719 Q142.7819,165.4375 143.3913,165.4375 L148.5319,165.4375 Q149.1413,165.4375 149.4069,165.6719 Q149.6725,165.9063 149.6725,166.2813 Q149.6725,166.6719 149.4069,166.9063 Q149.1413,167.1406 148.5319,167.1406 L146.8131,167.1406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="79" x="164.86" y="175.4102">ICsvConvertor</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="109.36" x2="268.36" y1="186.5" y2="186.5"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="109.36" x2="268.36" y1="194.5" y2="194.5"/>
+            <ellipse cx="119.36" cy="207.5469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="128.36" y="210.957">String toCSVRow()</text>
+            <ellipse cx="119.36" cy="222.6406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="135" x="128.36" y="226.0508">void fromCSV(String csv)</text>
+        </g>
+        <!--class TechnicianCSVFileManager-->
+        <g id="elem_TechnicianCSVFileManager">
+            <rect codeLine="86" fill="#FFFFFF" height="123.4688" id="TechnicianCSVFileManager" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="283" x="1115.36" y="132"/>
+            <ellipse cx="1176.61" cy="148" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1179.3756,143.875 Q1179.5319,143.6563 1179.7194,143.5469 Q1179.9069,143.4375 1180.1256,143.4375 Q1180.5006,143.4375 1180.735,143.7031 Q1180.9694,143.9531 1180.9694,144.5625 L1180.9694,146.0156 Q1180.9694,146.625 1180.735,146.8906 Q1180.5006,147.1563 1180.1256,147.1563 Q1179.7819,147.1563 1179.5788,146.9531 Q1179.3756,146.7656 1179.2663,146.25 Q1179.2194,145.8906 1179.0319,145.7031 Q1178.7038,145.3281 1178.0944,145.1094 Q1177.485,144.8906 1176.86,144.8906 Q1176.0944,144.8906 1175.4538,145.2188 Q1174.8288,145.5469 1174.3288,146.2969 Q1173.8444,147.0469 1173.8444,148.0781 L1173.8444,149.1719 Q1173.8444,150.4063 1174.735,151.2344 Q1175.6256,152.0469 1177.2194,152.0469 Q1178.1569,152.0469 1178.8131,151.7969 Q1179.2038,151.6406 1179.6256,151.2031 Q1179.8913,150.9375 1180.0319,150.8594 Q1180.1881,150.7813 1180.3913,150.7813 Q1180.7194,150.7813 1180.9694,151.0469 Q1181.235,151.2969 1181.235,151.6406 Q1181.235,151.9844 1180.8913,152.3906 Q1180.3913,152.9688 1179.5944,153.2969 Q1178.5163,153.75 1177.2194,153.75 Q1175.7038,153.75 1174.5006,153.125 Q1173.5163,152.625 1172.8288,151.5625 Q1172.1413,150.4844 1172.1413,149.2031 L1172.1413,148.0469 Q1172.1413,146.7188 1172.7506,145.5781 Q1173.3756,144.4219 1174.4694,143.8125 Q1175.5631,143.1875 1176.7975,143.1875 Q1177.5319,143.1875 1178.1725,143.3594 Q1178.8288,143.5156 1179.3756,143.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="152" x="1197.11" y="152.9102">TechnicianCSVFileManager</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1116.36" x2="1397.36" y1="164" y2="164"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1116.36" x2="1397.36" y1="172" y2="172"/>
+            <ellipse cx="1126.36" cy="185.0469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="154" x="1135.36" y="188.457">saveTechnician(Technician)</text>
+            <ellipse cx="1126.36" cy="200.1406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="112" x="1135.36" y="203.5508">loadAllTechnicians()</text>
+            <ellipse cx="1126.36" cy="215.2344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="166" x="1135.36" y="218.6445">updateTechnician(Technician)</text>
+            <ellipse cx="1126.36" cy="230.3281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="147" x="1135.36" y="233.7383">deleteTechnician(String id)</text>
+            <ellipse cx="1126.36" cy="245.4219" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="257" x="1135.36" y="248.832">technicianLogin(String email, String password)</text>
+        </g>
+        <!--class RepairWorkCSVFileManager-->
+        <g id="elem_RepairWorkCSVFileManager">
+            <rect codeLine="94" fill="#FFFFFF" height="108.375" id="RepairWorkCSVFileManager" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="202" x="653.86" y="139.5"/>
+            <ellipse cx="674.71" cy="155.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M677.4756,151.375 Q677.6319,151.1563 677.8194,151.0469 Q678.0069,150.9375 678.2256,150.9375 Q678.6006,150.9375 678.835,151.2031 Q679.0694,151.4531 679.0694,152.0625 L679.0694,153.5156 Q679.0694,154.125 678.835,154.3906 Q678.6006,154.6563 678.2256,154.6563 Q677.8819,154.6563 677.6787,154.4531 Q677.4756,154.2656 677.3662,153.75 Q677.3194,153.3906 677.1319,153.2031 Q676.8037,152.8281 676.1944,152.6094 Q675.585,152.3906 674.96,152.3906 Q674.1944,152.3906 673.5537,152.7188 Q672.9287,153.0469 672.4287,153.7969 Q671.9444,154.5469 671.9444,155.5781 L671.9444,156.6719 Q671.9444,157.9063 672.835,158.7344 Q673.7256,159.5469 675.3194,159.5469 Q676.2569,159.5469 676.9131,159.2969 Q677.3037,159.1406 677.7256,158.7031 Q677.9912,158.4375 678.1319,158.3594 Q678.2881,158.2813 678.4912,158.2813 Q678.8194,158.2813 679.0694,158.5469 Q679.335,158.7969 679.335,159.1406 Q679.335,159.4844 678.9912,159.8906 Q678.4912,160.4688 677.6944,160.7969 Q676.6162,161.25 675.3194,161.25 Q673.8037,161.25 672.6006,160.625 Q671.6162,160.125 670.9287,159.0625 Q670.2412,157.9844 670.2412,156.7031 L670.2412,155.5469 Q670.2412,154.2188 670.8506,153.0781 Q671.4756,151.9219 672.5694,151.3125 Q673.6631,150.6875 674.8975,150.6875 Q675.6319,150.6875 676.2725,150.8594 Q676.9287,151.0156 677.4756,151.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="157" x="690.01" y="160.4102">RepairWorkCSVFileManager</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="654.86" x2="854.86" y1="171.5" y2="171.5"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="654.86" x2="854.86" y1="179.5" y2="179.5"/>
+            <ellipse cx="664.86" cy="192.5469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="164" x="673.86" y="195.957">saveRepairWork(RepairWork)</text>
+            <ellipse cx="664.86" cy="207.6406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="673.86" y="211.0508">loadAllRepairWorks()</text>
+            <ellipse cx="664.86" cy="222.7344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="176" x="673.86" y="226.1445">updateRepairWork(RepairWork)</text>
+            <ellipse cx="664.86" cy="237.8281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="169" x="673.86" y="241.2383">deleteRepairWork(String jobId)</text>
+        </g>
+        <!--class SparePartsCSVFileManager-->
+        <g id="elem_SparePartsCSVFileManager">
+            <rect codeLine="101" fill="#FFFFFF" height="108.375" id="SparePartsCSVFileManager" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="189" x="891.36" y="139.5"/>
+            <ellipse cx="907.71" cy="155.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M910.4756,151.375 Q910.6319,151.1563 910.8194,151.0469 Q911.0069,150.9375 911.2256,150.9375 Q911.6006,150.9375 911.835,151.2031 Q912.0694,151.4531 912.0694,152.0625 L912.0694,153.5156 Q912.0694,154.125 911.835,154.3906 Q911.6006,154.6563 911.2256,154.6563 Q910.8819,154.6563 910.6787,154.4531 Q910.4756,154.2656 910.3662,153.75 Q910.3194,153.3906 910.1319,153.2031 Q909.8037,152.8281 909.1944,152.6094 Q908.585,152.3906 907.96,152.3906 Q907.1944,152.3906 906.5537,152.7188 Q905.9287,153.0469 905.4287,153.7969 Q904.9444,154.5469 904.9444,155.5781 L904.9444,156.6719 Q904.9444,157.9063 905.835,158.7344 Q906.7256,159.5469 908.3194,159.5469 Q909.2569,159.5469 909.9131,159.2969 Q910.3037,159.1406 910.7256,158.7031 Q910.9912,158.4375 911.1319,158.3594 Q911.2881,158.2813 911.4912,158.2813 Q911.8194,158.2813 912.0694,158.5469 Q912.335,158.7969 912.335,159.1406 Q912.335,159.4844 911.9912,159.8906 Q911.4912,160.4688 910.6944,160.7969 Q909.6162,161.25 908.3194,161.25 Q906.8037,161.25 905.6006,160.625 Q904.6162,160.125 903.9287,159.0625 Q903.2412,157.9844 903.2412,156.7031 L903.2412,155.5469 Q903.2412,154.2188 903.8506,153.0781 Q904.4756,151.9219 905.5694,151.3125 Q906.6631,150.6875 907.8975,150.6875 Q908.6319,150.6875 909.2725,150.8594 Q909.9287,151.0156 910.4756,151.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="154" x="922.01" y="160.4102">SparePartsCSVFileManager</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="892.36" x2="1079.36" y1="171.5" y2="171.5"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="892.36" x2="1079.36" y1="179.5" y2="179.5"/>
+            <ellipse cx="902.36" cy="192.5469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="911.36" y="195.957">saveSparePart(SparePart)</text>
+            <ellipse cx="902.36" cy="207.6406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="911.36" y="211.0508">loadAllSpareParts()</text>
+            <ellipse cx="902.36" cy="222.7344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="156" x="911.36" y="226.1445">updateSparePart(SparePart)</text>
+            <ellipse cx="902.36" cy="237.8281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="163" x="911.36" y="241.2383">deleteSparePart(String partId)</text>
+        </g>
+        <!--class NotificationManager-->
+        <g id="elem_NotificationManager">
+            <rect codeLine="108" fill="#FFFFFF" height="93.2813" id="NotificationManager" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="289" x="329.36" y="147"/>
+            <ellipse cx="415.11" cy="163" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M417.8756,158.875 Q418.0319,158.6563 418.2194,158.5469 Q418.4069,158.4375 418.6256,158.4375 Q419.0006,158.4375 419.235,158.7031 Q419.4694,158.9531 419.4694,159.5625 L419.4694,161.0156 Q419.4694,161.625 419.235,161.8906 Q419.0006,162.1563 418.6256,162.1563 Q418.2819,162.1563 418.0788,161.9531 Q417.8756,161.7656 417.7663,161.25 Q417.7194,160.8906 417.5319,160.7031 Q417.2038,160.3281 416.5944,160.1094 Q415.985,159.8906 415.36,159.8906 Q414.5944,159.8906 413.9538,160.2188 Q413.3288,160.5469 412.8288,161.2969 Q412.3444,162.0469 412.3444,163.0781 L412.3444,164.1719 Q412.3444,165.4063 413.235,166.2344 Q414.1256,167.0469 415.7194,167.0469 Q416.6569,167.0469 417.3131,166.7969 Q417.7038,166.6406 418.1256,166.2031 Q418.3913,165.9375 418.5319,165.8594 Q418.6881,165.7813 418.8913,165.7813 Q419.2194,165.7813 419.4694,166.0469 Q419.735,166.2969 419.735,166.6406 Q419.735,166.9844 419.3913,167.3906 Q418.8913,167.9688 418.0944,168.2969 Q417.0163,168.75 415.7194,168.75 Q414.2038,168.75 413.0006,168.125 Q412.0163,167.625 411.3288,166.5625 Q410.6413,165.4844 410.6413,164.2031 L410.6413,163.0469 Q410.6413,161.7188 411.2506,160.5781 Q411.8756,159.4219 412.9694,158.8125 Q414.0631,158.1875 415.2975,158.1875 Q416.0319,158.1875 416.6725,158.3594 Q417.3288,158.5156 417.8756,158.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="109" x="435.61" y="167.9102">NotificationManager</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="330.36" x2="617.36" y1="179" y2="179"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="330.36" x2="617.36" y1="187" y2="187"/>
+            <ellipse cx="340.36" cy="200.0469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="151" x="349.36" y="203.457">addNotification(Notification)</text>
+            <ellipse cx="340.36" cy="215.1406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="263" x="349.36" y="218.5508">getNotificationsForCustomer(String customerId)</text>
+            <ellipse cx="340.36" cy="230.2344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="177" x="349.36" y="233.6445">markAsRead(String customerId)</text>
+        </g>
+        <!--class AdministratorController-->
+        <g id="elem_AdministratorController">
+            <rect codeLine="116" fill="#FFFFFF" height="78.1875" id="AdministratorController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="363" x="1834.36" y="417.5"/>
+            <ellipse cx="1948.11" cy="433.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1950.8756,429.375 Q1951.0319,429.1563 1951.2194,429.0469 Q1951.4069,428.9375 1951.6256,428.9375 Q1952.0006,428.9375 1952.235,429.2031 Q1952.4694,429.4531 1952.4694,430.0625 L1952.4694,431.5156 Q1952.4694,432.125 1952.235,432.3906 Q1952.0006,432.6563 1951.6256,432.6563 Q1951.2819,432.6563 1951.0788,432.4531 Q1950.8756,432.2656 1950.7663,431.75 Q1950.7194,431.3906 1950.5319,431.2031 Q1950.2038,430.8281 1949.5944,430.6094 Q1948.985,430.3906 1948.36,430.3906 Q1947.5944,430.3906 1946.9538,430.7188 Q1946.3288,431.0469 1945.8288,431.7969 Q1945.3444,432.5469 1945.3444,433.5781 L1945.3444,434.6719 Q1945.3444,435.9063 1946.235,436.7344 Q1947.1256,437.5469 1948.7194,437.5469 Q1949.6569,437.5469 1950.3131,437.2969 Q1950.7038,437.1406 1951.1256,436.7031 Q1951.3913,436.4375 1951.5319,436.3594 Q1951.6881,436.2813 1951.8913,436.2813 Q1952.2194,436.2813 1952.4694,436.5469 Q1952.735,436.7969 1952.735,437.1406 Q1952.735,437.4844 1952.3913,437.8906 Q1951.8913,438.4688 1951.0944,438.7969 Q1950.0163,439.25 1948.7194,439.25 Q1947.2038,439.25 1946.0006,438.625 Q1945.0163,438.125 1944.3288,437.0625 Q1943.6413,435.9844 1943.6413,434.7031 L1943.6413,433.5469 Q1943.6413,432.2188 1944.2506,431.0781 Q1944.8756,429.9219 1945.9694,429.3125 Q1947.0631,428.6875 1948.2975,428.6875 Q1949.0319,428.6875 1949.6725,428.8594 Q1950.3288,429.0156 1950.8756,429.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="127" x="1968.61" y="438.4102">AdministratorController</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1835.36" x2="2196.36" y1="449.5" y2="449.5"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1835.36" x2="2196.36" y1="457.5" y2="457.5"/>
+            <ellipse cx="1845.36" cy="470.5469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="337" x="1854.36" y="473.957">UserRegistration(String name, String email, String password)</text>
+            <ellipse cx="1845.36" cy="485.6406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="243" x="1854.36" y="489.0508">adminLoggin(String email, String password)</text>
+        </g>
+        <!--class CustomerController-->
+        <g id="elem_CustomerController">
+            <rect codeLine="121" fill="#FFFFFF" height="123.4688" id="CustomerController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="452" x="1346.86" y="395"/>
+            <ellipse cx="1514.11" cy="411" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1516.8756,406.875 Q1517.0319,406.6563 1517.2194,406.5469 Q1517.4069,406.4375 1517.6256,406.4375 Q1518.0006,406.4375 1518.235,406.7031 Q1518.4694,406.9531 1518.4694,407.5625 L1518.4694,409.0156 Q1518.4694,409.625 1518.235,409.8906 Q1518.0006,410.1563 1517.6256,410.1563 Q1517.2819,410.1563 1517.0788,409.9531 Q1516.8756,409.7656 1516.7663,409.25 Q1516.7194,408.8906 1516.5319,408.7031 Q1516.2038,408.3281 1515.5944,408.1094 Q1514.985,407.8906 1514.36,407.8906 Q1513.5944,407.8906 1512.9538,408.2188 Q1512.3288,408.5469 1511.8288,409.2969 Q1511.3444,410.0469 1511.3444,411.0781 L1511.3444,412.1719 Q1511.3444,413.4063 1512.235,414.2344 Q1513.1256,415.0469 1514.7194,415.0469 Q1515.6569,415.0469 1516.3131,414.7969 Q1516.7038,414.6406 1517.1256,414.2031 Q1517.3913,413.9375 1517.5319,413.8594 Q1517.6881,413.7813 1517.8913,413.7813 Q1518.2194,413.7813 1518.4694,414.0469 Q1518.735,414.2969 1518.735,414.6406 Q1518.735,414.9844 1518.3913,415.3906 Q1517.8913,415.9688 1517.0944,416.2969 Q1516.0163,416.75 1514.7194,416.75 Q1513.2038,416.75 1512.0006,416.125 Q1511.0163,415.625 1510.3288,414.5625 Q1509.6413,413.4844 1509.6413,412.2031 L1509.6413,411.0469 Q1509.6413,409.7188 1510.2506,408.5781 Q1510.8756,407.4219 1511.9694,406.8125 Q1513.0631,406.1875 1514.2975,406.1875 Q1515.0319,406.1875 1515.6725,406.3594 Q1516.3288,406.5156 1516.8756,406.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="109" x="1534.61" y="415.9102">CustomerController</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1347.86" x2="1797.86" y1="427" y2="427"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1347.86" x2="1797.86" y1="435" y2="435"/>
+            <ellipse cx="1357.86" cy="448.0469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="426" x="1366.86" y="451.457">UserRegistration(String name, String email, String phone, boolean isFlagged)</text>
+            <ellipse cx="1357.86" cy="463.1406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="207" x="1366.86" y="466.5508">isEmailExistInCustomer(String email)</text>
+            <ellipse cx="1357.86" cy="478.2344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="185" x="1366.86" y="481.6445">getCustomerDetails(String email)</text>
+            <ellipse cx="1357.86" cy="493.3281" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="425" x="1366.86" y="496.7383">updateCustomer(String email, String name, String phone, boolean isFlagged)</text>
+            <ellipse cx="1357.86" cy="508.4219" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="163" x="1366.86" y="511.832">deleteCustomer(String email)</text>
+        </g>
+        <g id="elem_GMN38">
+            <path d="M1162.36,6 L1162.36,48.7031 A0,0 0 0 0 1162.36,48.7031 L1252.86,48.7031 L1256.86,131.69 L1260.86,48.7031 L1351.36,48.7031 A0,0 0 0 0 1351.36,48.7031 L1351.36,16 L1341.36,6 L1162.36,6 A0,0 0 0 0 1162.36,6 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M1341.36,6 L1341.36,16 L1351.36,16 L1341.36,6 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="168" x="1168.36" y="24.4951">Handles all CRUD operations</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="109" x="1168.36" y="40.8467">for Technician data</text>
+        </g>
+        <g id="elem_GMN41">
+            <path d="M2232.86,402.5 L2232.86,510.6094 L2382.86,510.6094 L2382.86,412.5 L2372.86,402.5 L2232.86,402.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M2372.86,402.5 L2372.86,412.5 L2382.86,412.5 L2372.86,402.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="129" x="2238.86" y="420.9951">Possible job statuses:</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="2238.86" y="437.3467">- CREATED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="2238.86" y="453.6982">- ASSESSED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="101" x="2238.86" y="470.0498">- IN_PROGRESS</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="2238.86" y="486.4014">- COMPLETED</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="81" x="2238.86" y="502.7529">- DELIVERED</text>
+        </g>
+        <!--reverse link User to Administrator-->
+        <g id="link_User_Administrator">
+            <path codeLine="131" d="M866.7051,532.9897 C895.6251,575.9297 923.76,617.71 950.12,656.85 " fill="none" id="User-backto-Administrator" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="none" points="856.65,518.06,861.7285,536.3414,871.6817,529.638,856.65,518.06" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link User to Customer-->
+        <g id="link_User_Customer">
+            <path codeLine="132" d="M813.4396,536.2799 C812.1896,562.7099 810.83,575.99 806.86,604 C804.76,618.83 801.61,634.75 798.35,649.36 " fill="none" id="User-backto-Customer" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="none" points="814.29,518.3,807.4463,535.9965,819.4329,536.5634,814.29,518.3" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link User to Technician-->
+        <g id="link_User_Technician">
+            <path codeLine="133" d="M740.6207,531.0258 C720.0607,551.9058 710.18,563 690.86,586 C684.52,593.56 684.07,596.33 677.86,604 C665.62,619.14 651.76,635.02 638.68,649.5 " fill="none" id="User-backto-Technician" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="none" points="753.25,518.2,736.3455,526.8161,744.896,535.2356,753.25,518.2" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to Administrator-->
+        <g id="link_ICsvConvertor_Administrator">
+            <path codeLine="135" d="M197.9924,250.3161 C212.1224,333.5561 246.36,510.27 292.86,556 C351.28,613.45 390.08,590.3 470.86,604 C651.87,634.71 709.86,572.54 882.86,634 C898.02,639.39 912.98,647.79 926.48,656.89 " fill="none" id="ICsvConvertor-backto-Administrator" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="194.98,232.57,192.077,251.3203,203.9078,249.312,194.98,232.57" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to Customer-->
+        <g id="link_ICsvConvertor_Customer">
+            <path codeLine="136" d="M174.6346,250.1256 C155.5546,331.5756 128.87,505.66 230.86,604 C267.42,639.24 638.96,617.17 686.86,634 C697.83,637.85 708.69,643.3 718.96,649.45 " fill="none" id="ICsvConvertor-backto-Customer" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="178.74,232.6,168.7927,248.7571,180.4764,251.494,178.74,232.6" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to Technician-->
+        <g id="link_ICsvConvertor_Technician">
+            <path codeLine="137" d="M162.6968,248.989 C126.2868,329.159 64.93,500.07 159.86,604 C209.67,658.53 421.49,608.66 490.86,634 C501.59,637.92 512.23,643.31 522.32,649.37 " fill="none" id="ICsvConvertor-backto-Technician" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="170.14,232.6,157.2338,246.5079,168.1598,251.47,170.14,232.6" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to RepairWork-->
+        <g id="link_ICsvConvertor_RepairWork">
+            <path codeLine="138" d="M249.5411,243.4349 C271.8111,260.0049 285.21,267.49 312.86,279 C386.41,309.62 420.67,271.8 488.86,313 C507.71,324.39 524.73,340.09 539.52,356.93 " fill="none" id="ICsvConvertor-backto-RepairWork" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="235.1,232.69,245.9595,248.2486,253.1228,238.6212,235.1,232.69" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to SparePart-->
+        <g id="link_ICsvConvertor_SparePart">
+            <path codeLine="139" d="M118.3064,244.4111 C101.1664,259.1611 98.1,265.87 88.86,287 C32.42,416.09 6,490.05 88.86,604 C139.52,673.66 240.54,695.06 312.21,701.11 " fill="none" id="ICsvConvertor-backto-SparePart" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="131.95,232.67,114.3927,239.8632,122.2201,248.959,131.95,232.67" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link ICsvConvertor to JobPart-->
+        <g id="link_ICsvConvertor_JobPart">
+            <path codeLine="140" d="M244.6855,245.1022 C261.5155,261.1022 267.43,267.98 282.86,287 C310.23,320.73 336.62,361.69 356.46,394.78 " fill="none" id="ICsvConvertor-backto-JobPart" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="231.64,232.7,240.5515,249.4507,248.8196,240.7537,231.64,232.7" style="stroke:#0078D7;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link RepairWork to SparePart-->
+        <g id="link_RepairWork_SparePart">
+            <path codeLine="142" d="M510.5499,565.2006 C488.2099,591.2606 472.39,609.72 451.74,633.81 " fill="none" id="RepairWork-backto-SparePart" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="#0078D7" points="518.36,556.09,511.4181,558.0419,510.5499,565.2006,517.4918,563.2487,518.36,556.09" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="492.606,598.972,500.7239,594.0172,496.2612,590.1919,492.606,598.972" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="504.86" y="600.4951">uses</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="504.8975" y="577.5015">1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="436.7808" y="623.334">0..*</text>
+        </g>
+        <!--link RepairWork to Technician-->
+        <g id="link_RepairWork_Technician">
+            <path codeLine="143" d="M593.83,556.03 C593.08,566.14 592.4,576.28 591.86,586 C590.71,606.71 590,629.51 589.56,649.41 " fill="none" id="RepairWork-Technician" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="596.6316,600.1706,599.9806,591.2692,594.1089,591.0007,596.6316,600.1706" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="605.86" y="600.4951">assigned to</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="585.9098" y="577.4371">1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="582.1837" y="638.5602">1</text>
+        </g>
+        <!--link RepairWork to Customer-->
+        <g id="link_RepairWork_Customer">
+            <path codeLine="144" d="M676.1,556.09 C699.81,588 725.19,622.17 745.46,649.46 " fill="none" id="RepairWork-Customer" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="717.8416,599.1895,714.807,590.1761,710.0886,593.6811,717.8416,599.1895" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="723.86" y="600.4951">belongs to</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="674.2215" y="577.5015">1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="732.6953" y="638.6169">1</text>
+        </g>
+        <!--link AdministratorController to Administrator-->
+        <g id="link_AdministratorController_Administrator">
+            <path codeLine="146" d="M1950.64,495.72 C1912.73,516.4 1863.39,540.76 1816.86,556 C1548.18,644.01 1218.5955,681.8484 1067.3455,695.5584 " fill="none" id="AdministratorController-to-Administrator" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#0078D7" points="1061.37,696.1,1070.6944,699.2712,1066.3496,695.6486,1069.9722,691.3039,1061.37,696.1" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="1706.86" y="600.4951">manages</text>
+        </g>
+        <!--link CustomerController to Customer-->
+        <g id="link_CustomerController_Customer">
+            <path codeLine="147" d="M1476.78,518.11 C1422.09,549.45 1351.06,585.03 1282.86,604 C1111.11,651.78 1050.79,574.14 882.86,634 C872.01,637.87 866.4081,640.1982 856.2181,646.2982 " fill="none" id="CustomerController-to-Customer" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#0078D7" points="851.07,649.38,860.8466,648.1894,855.3601,646.8119,856.7376,641.3253,851.07,649.38" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="1333.86" y="600.4951">manages</text>
+        </g>
+        <!--link TechnicianCSVFileManager to Technician-->
+        <g id="link_TechnicianCSVFileManager_Technician">
+            <path codeLine="148" d="M1261.74,255.24 C1264.64,334.53 1257.29,472.98 1181.86,556 C1114.32,630.34 759.17,607.69 686.86,634 C676.13,637.9 670.635,640.203 660.535,646.263 " fill="none" id="TechnicianCSVFileManager-to-Technician" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#0078D7" points="655.39,649.35,665.1654,648.1495,659.6775,646.7775,661.0495,641.2896,655.39,649.35" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="1261.86" y="461.9951">manages</text>
+        </g>
+        <!--link RepairWorkCSVFileManager to RepairWork-->
+        <g id="link_RepairWorkCSVFileManager_RepairWork">
+            <path codeLine="149" d="M723.92,247.63 C705.65,279.01 684.9597,314.5352 663.3697,351.6052 " fill="none" id="RepairWorkCSVFileManager-to-RepairWork" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#0078D7" points="660.35,356.79,668.336,351.026,662.8664,352.4694,661.423,346.9998,660.35,356.79" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="697.86" y="301.4951">manages</text>
+        </g>
+        <!--link SparePartsCSVFileManager to SparePart-->
+        <g id="link_SparePartsCSVFileManager_SparePart">
+            <path codeLine="150" d="M1039.83,247.7 C1055.54,266.67 1070.66,289.27 1078.86,313 C1114.14,415.08 1148.62,473.55 1078.86,556 C993.72,656.62 614.48,588.24 490.86,634 C485.02,636.16 484.5615,636.0468 478.8415,638.9468 " fill="none" id="SparePartsCSVFileManager-to-SparePart" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#0078D7" points="473.49,641.66,483.3261,641.1579,477.9496,639.399,479.7085,634.0226,473.49,641.66" style="stroke:#0078D7;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="1119.86" y="461.9951">manages</text>
+        </g>
+        <!--link Status to GMN41-->
+        <g id="link_Status_GMN41">
+            <path d="M1018.65,394.72 C1035.81,357.14 1064.01,313.18 1106.36,296 C1134.42,284.62 2168.31,284.62 2196.36,296 C2241.79,314.43 2271.46,363.19 2288.69,402.17 " fill="none" id="Status-GMN41" style="stroke:#0078D7;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        </g>
+        <!--SRC=[lLPjRzis4FwkNq6u7-OrZP7kImUZAE3OpkOYQGAvBnyBMZhBd2dI9IcdNPl_tfEf5qgYrAqBPXYGn7juzzpnxdXwpyI1AfgIY5EjoTU0uE-IHlj4oKp4Sycb8Xzsp82LI1M3igkN766drPbIyjukFhcuUF7xueLTDaQnJMRWIWgpPdy3UVxRIN03PYTZT_KX20weZIP0HZSo1gv71HUwqKRHo1G4tsbGXIJ_VIt53-HiZTP4GbWy91KqXI4vf9Jn8O2Hy_NxKDwFV_MYZfB5PAjaYgXniINIHmj6B_E7zMGMfqomVAEHhakbeGE2xZ7S7O67mRymEy-qaIbuBUwag8Dpjf6I0nM4wIjEamGUcybRY7Q2HGnDTBd0vmCempJyNt49uK2P-Y3LtiFcBxbPTGr6HIWz8bFvvX72fumTKX2c8s5QPmsFgSaqqQV7V_VNtPo0iThjTqT7TeYfWLNEfzHZgDvhJ-JMs43WZYhZJM9bF15eLE5PBBCD1n99tOq8bn4rJ8f7FktNSjF3s7_KRJ-OCEHJHeLXvikZKGEHfQGuyvhOwzlBZ_DmENkxN3JMPklr4l_DnTMRZtVXxHyXIfeARc_khfTj5OlbzUhzCYnM7nfTU2KCg2sDeEh4h5mXgxa-pgKuOeLwMzTF1C0rVSKut521xwgqtUuOgCH1kHGqFKAD6zUl3XSkQJpZl9PfbwbD_H_fm3iA6gZg-d50THkubWchCATBvXbfDRJ1fZJiS8qRrwzTXskPn-4VwR0EEoYtO8RQWXxcNk76rLkNUQsiItnOWQNjODo2zj1-8mtRCjjqF8nf7Bk8iVlXMCNswahqbLJbnJlkt1xElfIg_Ko7GEC-MBDKi0gDafotAwKnNDGWrvDyaWeXiQ3S5QStLxavbAb5FD0G9lVFP7SPaSVZbmympqXdS77uChtCjom_ezwLQ9_9ILtp64l80WpAT1_Ifg9NNqMlmVmVSBMfEy3nb0k_O9VWDijsxA23quJyyjlvUJC9dFLIexDKzx4WQ7RtbzycavOc3w1IwP4vkZtIkg7uf5NT-eJ59Hu4pkmsUZuYJz6XqSLaydJap2PJacdGv5KRd6FnuGoZKuB9oH81CLvalHkgENfADi2bIBH51tsbDvcyQityKvAU6emEF9MGmnqR9RBt2ipn3IVA7RrtIBx3yQtUqTkvynrkHCiDWP06qFq3aTlUInepzaygOew7G3ady_3TWaWSyctgedIB8N4ym7gY0OYOvCeB4uebEvCRMPSZyPt4iygdHxo6Ya4Pz1G5cERLq8IbK0zBvwGv927G6OxEIJqKLSQ_0m00]-->
+    </g>
+</svg>
